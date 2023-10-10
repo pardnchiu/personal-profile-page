@@ -20,17 +20,19 @@
 
 ### 邱敬幃 Pardn Chiu
 
-<a href=mailto:mail@pardn.ltd>
-  <img src=https://pardn.io/image/mail.svg>
-</a>&nbsp<a href=https://linkedin.com/in/pardnchiu>
+<a href="mailto:mail@pardn.ltd">
+  <img src="https://pardn.io/image/mail.svg">
+</a>&nbsp<a href="https://linkedin.com/in/pardnchiu">
   <img src="https://skillicons.dev/icons?i=linkedin">
+</a>&nbsp<a href="https://pardn.io/blog">
+  <img src="https://pardn.io/image/blog.svg">
 </a>
 
 <br>
 <br>
 <br>
 
-<a href="https://github.com/pardnchiu/website-17">
+<a href="https://github.com/pardnchiu/moneybook">
   <img align=left src=https://pardn.io/image/left.svg height=32>
 </a>
 
